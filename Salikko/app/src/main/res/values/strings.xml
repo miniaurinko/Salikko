@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Salikko</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="content_main_text">Lisää liike + -painikkeesta</string>
+    <string name="content_legs">Add a leg move</string>
+    <string name="content_push">Add a push move</string>
+    <string name="content_pull">Add a pull move</string>
+    <string name="move_0">Kyykky</string>
+</resources>
